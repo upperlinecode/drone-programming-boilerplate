@@ -1,0 +1,16 @@
+{
+  "name": "drone-programming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-flight.js",
+  "dependencies": {
+    "rolling-spider": "^1.7.0",
+    "temporal": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
